@@ -1,0 +1,15 @@
+.form {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    gap: .5rem;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+a{
+    color: black;
+}
